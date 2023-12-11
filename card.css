@@ -12,11 +12,10 @@
     border-style: dotted;
 }
 img{
-    height: 250px;
+    height: 251px;
     width: 190px;
 }
-.ac{
-    background-color: rgb(77, 68, 120);
+.ac{   background-color: rgb(241, 17, 58);
     margin-top: 15px;
     display: inline-block;
     border-color: blue;
@@ -24,7 +23,7 @@ img{
     
 }
 .ad{
-    background-color: rgb(77, 68, 120);
+    background-color: rgb(241, 17, 58);
     margin-top: 20px;
     display: inline;
     border-color: blue;
