@@ -5,16 +5,29 @@
     border-style: double;
 }
 .ab{
-    background-color: beige;
-    height: 265px;
-    width: 200px;
+    background-color: rgb(240, 240, 49);
+    height: 251px;
+    width: 191px;
     border-color: rgb(89, 0, 255);
     border-style: dotted;
 }
 img{
-    height: 264px;
-    width: 194px;
+    height: 250px;
+    width: 190px;
 }
-button{
+.ac{
+    background-color: rgb(77, 68, 120);
     margin-top: 15px;
+    display: inline-block;
+    border-color: blue;
+    border-style: solid;
+    
+}
+.ad{
+    background-color: rgb(77, 68, 120);
+    margin-top: 20px;
+    display: inline;
+    border-color: blue;
+    border-style: solid;
+    padding:auto;
 }
