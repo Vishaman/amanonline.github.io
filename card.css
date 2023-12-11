@@ -1,8 +1,20 @@
 .aa{background-color: blueviolet;
     height: 400px;
     width: 300px;
-    border-color: azure;
-    border-radius: 20px;
-
-
+    border-color:black;
+    border-style: double;
+}
+.ab{
+    background-color: beige;
+    height: 265px;
+    width: 200px;
+    border-color: rgb(89, 0, 255);
+    border-style: dotted;
+}
+img{
+    height: 264px;
+    width: 194px;
+}
+button{
+    margin-top: 15px;
 }
